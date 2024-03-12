@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+#content{
+    width: 500px !important;
+    height: 500px !important;
+    margin-left: 100px;
+}
